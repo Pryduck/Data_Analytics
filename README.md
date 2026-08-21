@@ -28,6 +28,11 @@
 
 ### Задача 2. Доля пользователей-женщин по городам
 
+Распределение мужчин и женщин по городам   указанием доли женщин в %:
+
+<img width="401" height="199" alt="image" src="https://github.com/user-attachments/assets/f386764e-0113-4de4-b489-f131b3e29517" />
+
+
 <img width="504" height="335" alt="image" src="https://github.com/user-attachments/assets/4f05887c-09ca-41e9-8f88-d9fbf7a795c5" />
 
 
