@@ -12,7 +12,9 @@
 **Результат:** аналитический отчёт и интерактивный дашборд, демонстрирующие влияние маркетинговой активности на финансовые показатели компании.<br> 
 
 **Дашборд:**<br> https://docs.google.com/spreadsheets/d/15OzQdv8dTWaqaesb95iZaVPSF8h3kV8VGSLlLJLtSBw/edit?usp=sharing
-<br>**Отчёт по издержкам:**<br> https://docs.google.com/spreadsheets/d/1qeTAUuXzAqZzpSvEjpNMJODPeaVaACjAXKs2IjMdexw/edit?usp=sharing
+<br>**Калькулятор по издержкам:**<br> https://docs.google.com/spreadsheets/d/1qeTAUuXzAqZzpSvEjpNMJODPeaVaACjAXKs2IjMdexw/edit?usp=sharing
+
+# **Отчёт:**
 
 ### **Содержание:**<br>
 Анализ инцидентов<br>
